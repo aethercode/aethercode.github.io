@@ -1,0 +1,24 @@
+body {
+  font-family: arial;
+  background-color: #222;
+  color: #fff;
+}
+a {
+  color: #0af
+}
+a:hover {
+  color: #0aa;
+  transition: 100ms;
+}
+
+.main {
+  text-align: center;
+}
+.title {
+  font-size: 100px;
+  color: #F37;
+}
+.subtitle {
+  font-size: 50px;
+  color: #0f5
+}
