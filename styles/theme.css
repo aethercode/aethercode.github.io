@@ -7,12 +7,21 @@ a {
   color: #0af
 }
 a:hover {
-  color: #0aa;
+  color: #00a;
   transition: 100ms;
 }
 
 .main {
   text-align: center;
+}
+.small {
+  font-size: 10;
+}
+.medium {
+  font-size: 30;
+}
+.large {
+  font-size: 100;
 }
 .title {
   color: #F37;
