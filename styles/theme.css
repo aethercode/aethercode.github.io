@@ -7,7 +7,7 @@ a {
   color: #0af
 }
 a:hover {
-  color: #00a;
+  color: #adf;
   transition: 100ms;
 }
 
@@ -15,13 +15,13 @@ a:hover {
   text-align: center;
 }
 .small {
-  font-size: 10;
+  font-size: 20px;
 }
 .medium {
-  font-size: 30;
+  font-size: 50px;
 }
 .large {
-  font-size: 100;
+  font-size: 100px;
 }
 .title {
   color: #F37;
