@@ -1,7 +1,6 @@
 body {
   font-family: arial;
-  background-color: #222;
-  color: #fff;
+  background-color: #FFF;
 }
 a {
   color: #0af;
@@ -12,7 +11,7 @@ a:hover {
   transition: 100ms;
 }
 
-.main {
+.centered {
   text-align: center;
 }
 .small {
@@ -25,8 +24,8 @@ a:hover {
   font-size: 100px;
 }
 .title {
-  color: #F37;
+
 }
 .subtitle {
-  color: #0f5
+
 }
