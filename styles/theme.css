@@ -1,43 +1,12 @@
 html, body {
-     margin: 0;
-     padding: 0;
-     font-family: arial;
+  margin: 0;
+  padding: 0;
+  font-family: arial;
 }
-h1, h2, h3, h4, h5, h6, p, div {
-     padding: 10px;
-     margin: 0px;
-     margin-left: 10px;
-     margin-right: 10px;
-     font-weight: normal;
+#c {
+  margin-top: 20px;
+  text-align: center;
 }
-h1 {
-     font-size: 100px;
-}
-h2 {
-     font-size: 60px;
-}
-h3 {
-     font-size: 40px;
-}
-h4 {
-     font-size: 30px;
-}
-h5 {
-     font-size: 20px;
-}
-h6 {
-     font-size: 10px;
-}
-p {
-     font-size: 25px;
-}
-
-.bold {
-     font-weight: bold;
-}
-.underline {
-     text-decoration: underline;
-}
-.isolated {
-     margin-top: 40px;
+body {
+  background: #111;
 }
